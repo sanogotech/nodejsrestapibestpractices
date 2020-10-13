@@ -8,3 +8,8 @@
 
 - https://walkingtree.tech/flutter-best-practices-and-code-review-checklist/
 
+
+## Sonar
+https://dev.to/twt_karthikraja/flutter-continuous-code-inspection-with-sonarqube-3din
+https://github.com/insideapp-oss/sonar-flutter
+
